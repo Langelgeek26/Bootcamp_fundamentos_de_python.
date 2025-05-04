@@ -2,7 +2,7 @@
 Proyecto: Calculadora de IMC.
 
 ## Introduccion.
-Este proyecto lo desarrolle como parte de mi aprendizaje en el bootcamp, aplicando los principios de validacion de entrada de datos, estructuras condicionales y calculos matematicos en Python, me propuse en crear una herramienta sencilla que permitiera a los usuarios calcular su indice de masa corporal y que asi mismo conocieran a que clasificacion pertenecen sus resultados.
+Este proyecto lo desarrolle como parte de mi aprendizaje en el bootcamp aplicando los principios de validacion de entrada de datos, estructuras condicionales y calculos matematicos en Python, me propuse en crear una herramienta sencilla que permitiera a los usuarios calcular su indice de masa corporal y que asi mismo conocieran a que clasificacion pertenecen sus resultados.
 
 ## Proceso de desarrollo.
 El codigo fue construido utilizando funciones para garantizar una entrada de datos correcta y al mismo tiempo evitar errores, se implemento un bucle `while` con manejo de excepciones para validar los tipos de datos ingresados por el usuario, asegurando que la informacion recibida fuera correcta para el calculo del IMC.

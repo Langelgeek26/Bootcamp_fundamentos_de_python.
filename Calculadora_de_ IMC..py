@@ -39,7 +39,7 @@ elif IMC >= 35.00 and IMC <= 39.99:
 else:
     Categoria = "Usted presenta obesidad morbida"
 
-# En este bloque de codigo se organizan los datos del usuario de manera estructurada y permite visualizar su informacion y rersultados obtenidos.
+# En este bloque de codigo se organizan los datos del usuario de manera estructurada permitiendo visualizar su informacion y rersultados obtenidos.
 
 print("\n--- Datos del usuario ---")
 print(f"Nombre completo: {Nombre} {Apellido_P} {Apellido_M}")

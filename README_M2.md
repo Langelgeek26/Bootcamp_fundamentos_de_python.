@@ -10,8 +10,8 @@ Las etapas principales fueron las siguientes:
 
 ### 1. Planificación y análisis:
 - Definición de los dos problemas a resolver:
-  1. Verificar la longitud de una palabra ingresada por el usuario.
-  2. Determinar el cuadrante de un punto en el plano cartesiano según sus coordenadas X e Y.
+  - Verificar la longitud de una palabra ingresada por el usuario.
+  - Determinar el cuadrante de un punto en el plano cartesiano según sus coordenadas X e Y.
 
 ### 2. Diseño del algoritmo:
 - **Para la verificación de palabras:**

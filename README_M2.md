@@ -6,6 +6,7 @@ Este proyecto surge como parte de mi aprendizaje en el bootcamp, donde he reforz
 
 ## Proceso de desarrollo.
 El desarrollo de este proyecto siguió un enfoque estructurado para garantizar funcionalidad y eficiencia en los programas. 
+
 Las etapas principales fueron las siguientes:
 
 ### 1. Planificación y análisis:

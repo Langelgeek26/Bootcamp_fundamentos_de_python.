@@ -1,5 +1,5 @@
 # Bootcamp_fundamentos_de_python_M2.
-# Verificador de la longitud de una palabra.
+Proyecto: Verificador de la longitud de una palabra.
 
 ## Descripción del proyecto:
 Este programa permite al usuario ingresar una palabra y verificar si cumple con los criterios establecidos: que contenga **solo letras** y que su **longitud esté entre 4 y 8 caracteres**, en caso contrario, proporciona mensajes informativos para guiar al usuario en la corrección de su entrada.

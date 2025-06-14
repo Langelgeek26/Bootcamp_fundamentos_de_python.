@@ -1,4 +1,4 @@
-# Bootcamp-Fundamentos-de-Python.
+# Bootcamp_fundamentos_de_python.
 Proyecto: Calculadora de IMC.
 
 ## Introduccion.

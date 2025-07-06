@@ -1,4 +1,4 @@
-# Bootcamp_fundamentos_de_python_M2.
+# Bootcamp_fundamentos_de_python_M3.
 Proyecto: Simulación de la Máquina de Galton.
 
 ## Introducción.

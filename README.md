@@ -11,12 +11,12 @@ Este proyecto es una simulación visual de la Máquina de Galton, un experimento
 - La cantidad de veces que una canica "elige" la derecha determina en qué contenedor final caerá.
 - Repetí esta simulación n_canicas veces para obtener una distribución completa.
 
-2. Visualización de resultados.
+2. Visualización de resultados:
 - Usé matplotlib.pyplot para graficar un histograma con los resultados finales.
 - A cada barra le añadí una etiqueta con el número de canicas, para facilitar la lectura de los datos.
 - Personalicé tipografía, colores y estilo para obtener una visualización clara, estética y comprensible.
 
-3. Parámetros.
+3. Parámetros:
 - n_canicas = 3000    # Número total de canicas lanzadas.
 - n_niveles = 12      # Número de decisiones binarias (niveles).
   

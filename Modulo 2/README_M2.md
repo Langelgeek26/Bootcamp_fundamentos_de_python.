@@ -1,5 +1,5 @@
 # Bootcamp_fundamentos_de_python_M2.
-Proyecto: Validación y operaciones de datos
+Proyecto: Validación y operaciones de datos.
 
 ## Introducción.
 Este proyecto surge como parte de mi aprendizaje en el bootcamp, donde he reforzado habilidades esenciales en programación con Python, a través de la implementación de dos programas, busco aplicar los conceptos fundamentales como la validación de datos, estructuras de control y manejo de excepciones, el primer programa permite verificar la longitud de una palabra ingresada por el usuario, asegurando que cumpla con el rango establecido y el segundo programa determina el cuadrante en el que se encuentra un punto en el plano cartesiano, a partir de sus coordenadas X y Y, cada uno de estos desafíos me ha llevado a pensar de manera lógica y estructurada, mejorando mis habilidades en la resolución de problemas y escritura de código limpio.

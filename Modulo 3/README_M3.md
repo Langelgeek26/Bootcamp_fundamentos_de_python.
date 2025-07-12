@@ -1,5 +1,5 @@
 # Bootcamp_fundamentos_de_python_M3.
-Proyecto: Simulación de la Máquina de Galton.
+Proyecto: Gráfica de datos aleatorios.
 
 ## Introducción.
 Este proyecto es una simulación visual de la Máquina de Galton, un experimento clásico de la estadística que ilustra cómo decisiones aleatorias pueden generar una distribución normal, este código fue desarrollado como parte del proceso formativo en mi bootcamp.

@@ -1,5 +1,5 @@
 # Bootcamp_fundamentos_de_python_M1.
-Proyecto: Calculadora de IMC.
+Proyecto: Calculadora de I.M.C.
 
 ## Introduccion.
 Este proyecto lo desarrolle como parte de mi aprendizaje en el bootcamp aplicando los principios de validacion de entrada de datos, estructuras condicionales y calculos matematicos en Python, me propuse en crear una herramienta sencilla que permitiera a los usuarios calcular su indice de masa corporal y que asi mismo conocieran a que clasificacion pertenecen sus resultados.
